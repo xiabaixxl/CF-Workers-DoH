@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: 0BSD
 
 // 定义DNS over HTTPS (DoH)的端点
-const doh = 'https://doh.pub/dns-query'
-const dohjson = 'https://doh.pub/resolve'
+const doh = 'https://dns.cloudflare.com/dns-query'
+const dohjson = 'https://dns.cloudflare.com/dns-query'
 
 // 定义内容类型
 const contype = 'application/dns-message'
